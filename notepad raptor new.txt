@@ -1,0 +1,5 @@
+Algorithm to find a number is even or odd:
+1.Start;
+2.Accept the number;
+3.Divide the number with 2, if the remainder is 0 it is even else it is odd;
+4.Stop;
